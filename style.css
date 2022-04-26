@@ -1,0 +1,14 @@
+.title {
+    background-color: aqua;
+    color: black;
+    font-size: 32px;
+}
+
+.subtitle {
+    color: red;
+}
+
+ul li, ol li  {
+    color: green;
+}
+
